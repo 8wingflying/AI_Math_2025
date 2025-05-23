@@ -176,3 +176,26 @@
 32 網路計畫
 33 排隊論
 ```
+## MAth::Calculus
+- [Applying Math with Python - Second Edition](https://learning.oreilly.com/library/view/applying-math-with/9781804618370/)
+- [The Statistics and Calculus with Python Workshop](https://learning.oreilly.com/library/view/the-statistics-and/9781800209763/)
+- [Calculus All-in-One For Dummies (+ Chapter Quizzes Online)](https://learning.oreilly.com/library/view/calculus-all-in-one-for/9781119909675/)
+- [Doing Math with Python](https://learning.oreilly.com/library/view/doing-math-with/9781457189999/)
+- [Math and Architectures of Deep Learning]()
+
+## MAth::Statistics
+- MATH_1 [Practical Statistics for Data Scientists, 2nd Edition](https://learning.oreilly.com/library/view/practical-statistics-for/9781492072935/)
+- [Statistics and Mathematics for Data Science and Data Analytics](https://learning.oreilly.com/course/statistics-and-mathematics/9781837632336/)
+
+## MAth::Linear Algebra
+- [Practical Linear Algebra for Data Science](https://learning.oreilly.com/library/view/practical-linear-algebra/9781098120603/)
+- [Before Machine Learning Volume 1 - Linear Algebra for A.I](https://learning.oreilly.com/library/view/before-machine-learning/9781836208952/)
+- [Numerical Linear Algebra with Applications](https://learning.oreilly.com/library/view/numerical-linear-algebra/9780123944351/)
+- [Linear Algebra and Matrix Analysis for Statistics](https://learning.oreilly.com/library/view/linear-algebra-and/9781482248241/)
+- [Linear Algebra, 5th Edition](https://learning.oreilly.com/library/view/linear-algebra-5th/9780136745495/)
+- [Introduction to Computational Linear Algebra](https://learning.oreilly.com/library/view/introduction-to-computational/9781482258714/)
+- [Handbook of Linear Algebra, 2nd Edition](https://learning.oreilly.com/library/view/handbook-of-linear/9781466507296/)
+- [Elementary Linear Algebra, 11th Edition](https://learning.oreilly.com/library/view/elementary-linear-algebra/9781118434413/)
+- [Advanced Linear Algebra, 2nd Edition](https://learning.oreilly.com/library/view/advanced-linear-algebra/9781482248852/)
+- [Practical Linear Algebra, 3rd Edition](https://learning.oreilly.com/library/view/practical-linear-algebra/9781466579569/)
+- [Math for Programming](https://learning.oreilly.com/library/view/math-for-programming/9798341620063/)
