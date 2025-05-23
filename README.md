@@ -6,7 +6,7 @@
 01 Python 基礎
 1.1 Python 簡介與安裝
 1.2 協力廠商開發工具VS Code
-1.3 ython 內建資料型態與函數
+1.3 Python 內建資料型態與函數
 1.4 Python 常用協力廠商函數庫：numpy
 ```
 #### 【第二部分　高等數學】
